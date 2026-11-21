@@ -9,3 +9,4 @@ Este repositorio se utilizará para simular el trabajo colaborativo de dos desar
 ## Avances del proyecto
 
 - Desarrollador 1: Inicio de actividades del proyecto.
+- Desarrollador 2: Inicio de actividades y revisión del proyecto.
