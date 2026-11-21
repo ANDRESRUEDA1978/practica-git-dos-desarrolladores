@@ -5,3 +5,7 @@ Este repositorio se utilizará para simular el trabajo colaborativo de dos desar
 ## Participantes
 - Desarrollador 1
 - Desarrollador 2
+
+## Avances del proyecto
+
+- Desarrollador 1: Inicio de actividades del proyecto.
