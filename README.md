@@ -10,3 +10,7 @@ Este repositorio se utilizará para simular el trabajo colaborativo de dos desar
 
 - Desarrollador 1: Inicio de actividades del proyecto.
 - Desarrollador 2: Inicio de actividades y revisión del proyecto.
+
+## Nueva funcionalidad
+
+- Se inicia el desarrollo del formulario de donaciones.
